@@ -5,3 +5,6 @@
 .form-input {
   @apply bg-gray-100 w-full outline-none px-1 py-1 text-sm rounded-sm text-gray-800;
 }
+.form-error {
+  @apply text-xs mt-2;
+}
